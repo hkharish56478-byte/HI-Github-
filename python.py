@@ -1,0 +1,1 @@
+print(list(map(lambda x :"Hello python !",range(5))))
